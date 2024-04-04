@@ -20,7 +20,7 @@ namespace CollectionsMasterConsoleUI
 
             //TODO: Print the first number of the array
             Console.WriteLine($"first number");
-            Console.WriteLine($"{0}");
+            Console.WriteLine($"{numberArray[0]}");
             //TODO: Print the last number of the array
             Console.WriteLine($"Last number");
             Console.WriteLine($"{numberArray[numberArray.Length - 1]}");
